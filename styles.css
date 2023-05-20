@@ -88,8 +88,8 @@
     }
 
     button[type="submit"] {
-      width: 100%;
-      padding: 8px 16px;
+      width: 102.5%;
+      padding: 8px 0px;
       background-color: #333;
       color: #fff;
       border: none;
